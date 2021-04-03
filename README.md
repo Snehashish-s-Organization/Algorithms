@@ -1,2 +1,2 @@
 # Algorithms
-Put all the algorithms here
+Contains Different types of Algorithms
